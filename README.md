@@ -18,3 +18,7 @@ Copy the sheet file(s) in sheets/ to your user .dia/sheets directory.
 ## References
 Latest 0.97.3 build <https://github.com/GNOME/dia/tree/master>  
 Older documentation and 0.97.2 builds for Windows, Mac and Linux <http://dia-installer.de/>
+
+## Symbols
+The following symbols are provided as of 20250112.
+<img src="./images/all_shapes_20250112.png" alt="all shapes as of 20250112" width="760"/>
