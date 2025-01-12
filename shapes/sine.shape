@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--      
+       Copyright 2024-2025 Scott Humphreys
+
+       This file is part of SRH_circuit_shapes
+
+    SRH_circuit_shapes is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+    SRH_circuit_shapes is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along with SRH_circuit_shapes. If not, see <https://www.gnu.org/licenses/>. 
+-->
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>shape_diagrams - sine</name>
+  <icon>sine.png</icon>
+  <connections>
+    <point x="0" y="1"/>
+    <point x="0" y="-1"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="0" cy="0" rx="1" ry="1"/>
+    <svg:text style="fill: #000000; fill-opacity: 1; stroke: none; text-anchor:middlefont-family: sans; font-style: normal; font-weight: normal" x="0" y="0.194062" font-size="0.8" textLength="0"></svg:text>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M -0.577991 -6.12323e-17 C -0.577991,-0.178633 -0.522058,-0.343696 -0.431261,-0.433013 C -0.340465,-0.522329 -0.2286,-0.522329 -0.137803,-0.433013 C -0.0470069,-0.343696 0.00892595,-0.178633 0.00892595,-2.22045e-16"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 0.00892595 6.12323e-17 C 0.00892595,0.178633 0.0648588,0.343696 0.155655,0.433013 C 0.246451,0.522329 0.358317,0.522329 0.449113,0.433013 C 0.53991,0.343696 0.595843,0.178633 0.595843,2.22045e-16"/>
+  </svg:svg>
+</shape>

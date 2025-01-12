@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--      
+       Copyright 2024-2025 Scott Humphreys
+
+       This file is part of SRH_circuit_shapes
+
+    SRH_circuit_shapes is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+    SRH_circuit_shapes is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along with SRH_circuit_shapes. If not, see <https://www.gnu.org/licenses/>. 
+-->
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<name>SRH_circuit</name>
+<description>SRH circuit symbols</description>
+<contents>
+<!-- Analog -->
+<object name="SRH_symbols - vsrc">
+<description>voltage source (vsrc)</description></object>
+<object name="SRH_symbols - vsrc90">
+<description>voltage source (vsrc90)</description></object>
+<object name="SRH_symbols - isrc">
+<description>current source (isrc)</description></object>
+<object name="SRH_symbols - isrc90">
+<description>current source (isrc90)</description></object>
+<br/>
+<object name="SRH_symbols - vsrc2">
+<description>voltage source (vsrc2)</description></object>
+<object name="SRH_symbols - vsin">
+<description>sine source (vsin)</description></object>
+<object name="SRH_symbols - vsin90">
+<description>sine source (vsin90)</description></object>
+<br/>
+<object name="SRH_symbols - mult">
+<description>multiplier (mult)</description></object>
+<object name="SRH_symbols - sum">
+<description>summer (sum)</description></object>
+<br/>
+<object name="SRH_symbols - res">
+<description>resistor (res)</description></object>
+<object name="SRH_symbols - cap">
+<description>capacitor (cap)</description></object>
+<object name="SRH_symbols - ind">
+<description>inductor (ind)</description></object>
+<br/>
+<object name="SRH_symbols - res90">
+<description>resistor (res90)</description></object>
+<object name="SRH_symbols - cap90">
+<description>capacitor (cap90)</description></object>
+<object name="SRH_symbols - ind90">
+<description>inductor (ind90)</description></object>
+<br/>
+<object name="SRH_symbols - pot">
+<description>potentiometer (pot)</description></object>
+<object name="SRH_symbols - pot90">
+<description>potentiometer (pot90)</description></object>
+<object name="SRH_symbols - sw">
+<description>switch (sw)</description></object>
+<object name="SRH_symbols - sw90">
+<description>switch (sw90)</description></object>
+<br/>
+<object name="SRH_symbols - nfet">
+<description>N MOSFET (nfet)</description></object>
+<object name="SRH_symbols - pfet">
+<description>P MOSFET (pfet)</description></object>
+<object name="SRH_symbols - opamp">
+<description>opamp (opamp)</description></object>
+<br/>
+<object name="SRH_symbols - vdd">
+<description>power (vdd)</description></object>
+<object name="SRH_symbols - gnd">
+<description>ground (gnd)</description></object>
+<object name="SRH_symbols - sub">
+<description>substrate (sub)</description></object>
+<object name="SRH_symbols - dot">
+<description>solder dot (dot)</description></object>
+<br/>
+<object name="SRH_symbols - LblT">
+<description>top label (LbLT)</description></object>
+<object name="SRH_symbols - LblB">
+<description>bottom label (LblB)</description></object>
+<object name="SRH_symbols - LblL">
+<description>left label (LblL)</description></object>
+<object name="SRH_symbols - LblR">
+<description>right label (LblR)</description></object>
+<br/>
+<!-- Logic -->
+<object name="SRH_symbols - and">
+<description>and (and)</description></object>
+<object name="SRH_symbols - nand">
+<description>nand (nand)</description></object>
+<object name="SRH_symbols - or">
+<description>or (or)</description></object>
+<object name="SRH_symbols - nor">
+<description>nor (nor)</description></object>
+<br/>
+<object name="SRH_symbols - buf">
+<description>buffer (buf)</description></object>
+<object name="SRH_symbols - inv">
+<description>inverter (inv)</description></object>
+<object name="SRH_symbols - xor">
+<description>xor (xor)</description></object>
+<object name="SRH_symbols - xnor">
+<description>xnor (xnor)</description></object>
+<br/>
+<object name="SRH_symbols - dff">
+<description>D flip-flop (dff)</description></object>
+<object name="SRH_symbols - dff2">
+<description>D flip-flop (left) (dff2)</description></object>
+<br/>
+<object name="SRH_symbols - and2">
+<description>and (left) (and2)</description></object>
+<object name="SRH_symbols - nand2">
+<description>nand (left) (nand2)</description></object>
+<object name="SRH_symbols - or2">
+<description>or (left) (or2)</description></object>
+<object name="SRH_symbols - nor2">
+<description>nor (left) (nor2)</description></object>
+<br/>
+<object name="SRH_symbols - buf2">
+<description>buffer (left) (buf2)</description></object>
+<object name="SRH_symbols - inv2">
+<description>inverter (left) (inv2)</description></object>
+<object name="SRH_symbols - xor2">
+<description>xor (left) (xor2)</description></object>
+<object name="SRH_symbols - xnor2">
+<description>xnor (left) (xnor2)</description></object>
+<br/>
+<!-- Timing -->
+<object name="SRH_symbols - timing_bus">
+<description>bus (timing_bus)</description></object>
+<object name="SRH_symbols - timing_re1">
+<description>rising edge (timing_re1)</description></object>
+<object name="SRH_symbols - timing_fe1">
+<description>falling edge (timing_fe1)</description></object>
+<object name="SRH_symbols - timing_chg">
+<description>change (timing_chg)</description></object>
+<br/>
+<object name="SRH_symbols - timing_re2">
+<description>rising edge (timing_re2)</description></object>
+<object name="SRH_symbols - timing_fe2">
+<description>falling edge (timing_fe2)</description></object>
+<object name="SRH_symbols - timing_pulse">
+<description>pulse (timing_pulse)</description></object>
+</contents></sheet>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--      
+       Copyright 2024-2025 Scott Humphreys
+
+       This file is part of SRH_circuit_shapes
+
+    SRH_circuit_shapes is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+    SRH_circuit_shapes is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along with SRH_circuit_shapes. If not, see <https://www.gnu.org/licenses/>. 
+-->
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>SRH_symbols - dff2</name>
+  <icon>dff2.png</icon>
+  <!-- left facing --> 
+  <!-- grid is 0.25cm, x to right, y down; 1.5,0 at clock input -->
+  <connections>
+    <point x="1.5" y="0"/>
+    <point x="1.5" y="-1.25"/>
+    <point x="0" y="-1.25"/>
+    <point x="0" y="-0.25"/>
+    <point x="0.75" y="0.25"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <default-width>1.5cm</default-width>
+  <default-height>2cm</default-height>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff; fill-opacity: 0; stroke-opacity: 1; stroke-width: 0.05; stroke: #000000" x="0" y="-1.75" width="1.5" height="2" rx="0" ry="0"/>
+    <svg:polyline style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #000000" points="1.5,-0.25 1.25,0 1.5,0.25 "/>
+  </svg:svg>
+</shape>

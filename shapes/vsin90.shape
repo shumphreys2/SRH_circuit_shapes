@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--      
+       Copyright 2024-2025 Scott Humphreys
+
+       This file is part of SRH_circuit_shapes
+
+    SRH_circuit_shapes is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+    SRH_circuit_shapes is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along with SRH_circuit_shapes. If not, see <https://www.gnu.org/licenses/>. 
+-->
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>SRH_symbols - vsin90</name>
+  <icon>vsin90.png</icon>
+  <connections>
+    <point x="-0.4" y="0"/>
+    <point x="0.4" y="0"/>
+  </connections>
+  <default-width>1.0cm</default-width>
+  <default-height>1.0cm</default-height>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff; fill-opacity: 0; stroke-opacity: 0; stroke-width: 0.001; stroke: #ffffff" x="-0.5" y="-0.5" width="1" height="1" rx="0" ry="0"/>
+    <svg:ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="0" cy="-1.11022e-16" rx="0.4" ry="0.4"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" d="M -1.4e-06 0 C -0.11849,0.0114166 -0.204547,0.0656895 -0.204547,0.129 C -0.204547,0.19231 -0.11849,0.246583 -1.4e-06,0.258"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" d="M -1.4e-06 0 C 0.118488,-0.0114166 0.204544,-0.0656895 0.204544,-0.129 C 0.204544,-0.19231 0.118488,-0.246583 -1.4e-06,-0.258"/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--      
+       Copyright 2024-2025 Scott Humphreys
+
+       This file is part of SRH_circuit_shapes
+
+    SRH_circuit_shapes is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+    SRH_circuit_shapes is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along with SRH_circuit_shapes. If not, see <https://www.gnu.org/licenses/>. 
+-->
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>SRH_symbols - pot</name>
+  <icon>pot.png</icon>
+  <connections>
+    <point x="0" y="0.5"/>
+    <point x="0" y="-0.5"/>
+    <point x="0.5" y="0"/>
+  </connections>
+  <default-width>0.75cm</default-width>
+  <default-height>1cm</default-height>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.001; stroke: #ffffff" x="-0.25" y="-0.5" width="0.75" height="0.999995" rx="0" ry="0"/>
+    <svg:polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" points="0,-0.375 0.145699,-0.312958 0.00100227,-0.251767 -0.145699,-0.188873 0,-0.126831 "/>
+    <svg:polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" points="0,-0.126831 0.145699,-0.0647884 0.00100227,-0.0035981 -0.145699,0.0592963 0,0.121339 "/>
+    <svg:polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" points="0,0.121339 0.145699,0.183381 0.00100227,0.244571 -0.145699,0.307466 0,0.369508 "/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" x1="0" y1="0.499995" x2="0" y2="0.374995"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" x1="0" y1="-0.375005" x2="0" y2="-0.500005"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" x1="0.5" y1="-2.3875e-06" x2="0.330902" y2="3.03981e-07"/>
+    <svg:polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="0.255902,1.49773e-06 0.355901,-0.0500001 0.330902,3.03981e-07 0.355902,0.0499999 "/>
+  </svg:svg>
+</shape>

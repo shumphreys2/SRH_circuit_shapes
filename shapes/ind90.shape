@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--      
+       Copyright 2024-2025 Scott Humphreys
+
+       This file is part of SRH_circuit_shapes
+
+    SRH_circuit_shapes is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+    SRH_circuit_shapes is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along with SRH_circuit_shapes. If not, see <https://www.gnu.org/licenses/>. 
+-->
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>SRH_symbols - ind90</name>
+  <icon>ind90.png</icon>
+  <default-width>1.0cm</default-width>
+  <default-height>0.5cm</default-height>
+  <connections>
+    <point x="0.5" y="0"/>
+    <point x="-0.5" y="0"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.001; stroke: #ffffff" x="-0.5" y="-0.25" width="1" height="0.5" rx="0" ry="0"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" x1="-0.375" y1="0" x2="-0.5" y2="0"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" x1="0.5" y1="0" x2="0.375" y2="0"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" d="M -0.18824 -0.0125 C -0.18824,-0.0953427 -0.230378,-0.1625 -0.282358,-0.1625 C -0.334338,-0.1625 -0.376475,-0.0953427 -0.376475,-0.0125"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" d="M -5e-06 -0.0125 C -5e-06,-0.0660898 -0.0179437,-0.115609 -0.0470638,-0.142404 C -0.0761839,-0.169199 -0.112061,-0.169199 -0.141181,-0.142404 C -0.170301,-0.115609 -0.18824,-0.0660898 -0.18824,-0.0125"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" d="M 0.18823 -0.0125 C 0.18823,-0.0660898 0.170291,-0.115609 0.141171,-0.142404 C 0.112051,-0.169199 0.0761739,-0.169199 0.0470538,-0.142404 C 0.0179337,-0.115609 -5e-06,-0.0660898 -5e-06,-0.0125"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" d="M 0.376465 -0.0125 C 0.376465,-0.0953427 0.334328,-0.1625 0.282348,-0.1625 C 0.230368,-0.1625 0.18823,-0.0953427 0.18823,-0.0125"/>
+  </svg:svg>
+</shape>

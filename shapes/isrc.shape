@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--      
+       Copyright 2024-2025 Scott Humphreys
+
+       This file is part of SRH_circuit_shapes
+
+    SRH_circuit_shapes is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+    SRH_circuit_shapes is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along with SRH_circuit_shapes. If not, see <https://www.gnu.org/licenses/>. 
+-->
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>SRH_symbols - isrc</name>
+  <icon>isrc.png</icon>
+  <connections>
+    <point x="0" y="0.4"/>
+    <point x="0" y="-0.4"/>
+  </connections>
+  <default-width>1.0cm</default-width>
+  <default-height>1.0cm</default-height>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff; fill-opacity: 0; stroke-opacity: 0; stroke-width: 0.001; stroke: #ffffff" x="-0.5" y="-0.5" width="1" height="1" rx="0" ry="0"/>
+    <svg:ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="1.33227e-15" cy="4.44089e-16" rx="0.4" ry="0.4"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="0" y1="-0.275" x2="0" y2="0.144098"/>
+    <svg:polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="0,0.219098 -0.05,0.119098 0,0.144098 0.05,0.119098 "/>
+  </svg:svg>
+</shape>

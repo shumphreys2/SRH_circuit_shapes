@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--      
+       Copyright 2024-2025 Scott Humphreys
+
+       This file is part of SRH_circuit_shapes
+
+    SRH_circuit_shapes is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+    SRH_circuit_shapes is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along with SRH_circuit_shapes. If not, see <https://www.gnu.org/licenses/>. 
+-->
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>shape_diagrams - sine90</name>
+  <icon>sine90.png</icon>
+  <connections>
+    <point x="-1" y="0"/>
+    <point x="1" y="0"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="0" cy="0" rx="1" ry="1"/>
+    <svg:text style="fill: #000000; fill-opacity: 1; stroke: none; text-anchor:middlefont-family: sans; font-style: normal; font-weight: normal" x="0" y="0.194062" font-size="0.8" textLength="0"></svg:text>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 0 -5.55112e-17 C -0.306548,0.0232002 -0.527941,0.128038 -0.527941,0.25 C -0.527941,0.371962 -0.306548,0.4768 -1.11022e-16,0.5"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M -1.11022e-16 0 C 0.22867,0 0.43997,-0.0476497 0.554305,-0.125 C 0.66864,-0.20235 0.66864,-0.29765 0.554305,-0.375 C 0.43997,-0.45235 0.22867,-0.5 0,-0.5"/>
+  </svg:svg>
+</shape>

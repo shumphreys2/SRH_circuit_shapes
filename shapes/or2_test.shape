@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--      
+       Copyright 2024-2025 Scott Humphreys
+
+       This file is part of SRH_circuit_shapes
+
+    SRH_circuit_shapes is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+    SRH_circuit_shapes is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along with SRH_circuit_shapes. If not, see <https://www.gnu.org/licenses/>. 
+-->
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>shapes - or2_test</name>
+  <icon>or2_test.png</icon>
+  <connections>
+    <point x="0.625" y="-0.5"/>
+    <point x="1" y="-0.5"/>
+    <point x="0.8125" y="-0.5"/>
+    <point x="0.625" y="0.5"/>
+    <point x="1" y="0.5"/>
+    <point x="0.8125" y="0.5"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.001; stroke: #000000" d="M 1,-0.5 A 0.707107,0.707107 0 0 0 1,0.5"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.001; stroke-linecap: round; stroke: #000000" x1="0.625" y1="-0.5" x2="1" y2="-0.5"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.001; stroke-linecap: round; stroke: #000000" x1="0.625" y1="0.5" x2="1" y2="0.5"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.001; stroke: #000000" d="M 0.625,-0.5 A 0.850292,0.850292 0 0 0 -1.11022e-16,1.11022e-16"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.001; stroke: #000000" d="M 0.625,0.5 A 0.861204,0.861204 0 0 1 -2.22045e-16,-2.77556e-16"/>
+  </svg:svg>
+</shape>
