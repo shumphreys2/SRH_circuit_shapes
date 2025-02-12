@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--      
-       Copyright 2024-2025 Scott Humphreys
+       Copyright (c) 2024-2025 Scott Humphreys
 
        This file is part of SRH_circuit_shapes
 
@@ -21,7 +21,7 @@
   <default-height>1.0cm</default-height>
   <aspectratio type="fixed"/>
   <svg:svg>
-    <svg:polygon style="fill: #ffffff; fill-opacity: 0; stroke-opacity: 0; stroke-width: 0.001; stroke: #ffffff" points="-0.5,-0.5 0.5,-0.5 0.5,0.5 -0.5,0.5 "/>
+    <svg:polygon style="fill: none; stroke: none" points="-0.5,-0.5 0.5,-0.5 0.5,0.5 -0.5,0.5 "/>
     <svg:path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M -1.63425e-13 -0.4 C 0.22,-0.4 0.4,-0.22 0.4,0 C 0.4,0.22 0.22,0.4 -1.63425e-13,0.4 C -0.22,0.4 -0.4,0.22 -0.4,0 C -0.4,-0.22 -0.22,-0.4 -1.63425e-13,-0.4z"/>
     <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="-0.275" y1="0" x2="0.144098" y2="0"/>
     <svg:polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="0.219098,0 0.119098,0.05 0.144098,0 0.119098,-0.05 "/>

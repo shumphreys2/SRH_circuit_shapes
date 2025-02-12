@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--      
-       Copyright 2024-2025 Scott Humphreys
+       Copyright (c) 2024-2025 Scott Humphreys
 
        This file is part of SRH_circuit_shapes
 
@@ -21,6 +21,6 @@
   <default-height>0.25cm</default-height>
 	<textbox x1="-0.25" y1="-0.30" x2="0.25" y2="-0.3" align="center" resize="no"/>
   <svg:svg>
-    <svg:rect style="fill: #ffffff; fill-opacity: 0; stroke-opacity: 0; stroke-width: 0.001; stroke: #ffffff" x="-0.25" y="-0.25" width="0.5" height="0.5" rx="0" ry="0"/>
+    <svg:rect style="fill: none; stroke: none" x="-0.25" y="-0.25" width="0.5" height="0.5" rx="0" ry="0"/>
   </svg:svg>
 </shape>

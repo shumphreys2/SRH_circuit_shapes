@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!--      
-       Copyright 2024-2025 Scott Humphreys
+       Copyright (c) 2024-2025 Scott Humphreys
 
        This file is part of SRH_circuit_shapes
 
@@ -11,6 +11,11 @@
     You should have received a copy of the GNU General Public License along with SRH_circuit_shapes. If not, see <https://www.gnu.org/licenses/>. 
 -->
 <sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<name>SRH_circuit</name>
+<!--Dia-Version: 0.97+git-->
+<!--File: /home/shumphreys/.dia/sheets/SRH_circuit.sheet-->
+<!--Date: Mon Dec 23 11:59:32 2024-->
+<!--For: shumphreys-->
 <name>SRH_circuit</name>
 <description>SRH circuit symbols</description>
 <contents>

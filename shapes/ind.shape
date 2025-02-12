@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--      
-       Copyright 2024-2025 Scott Humphreys
+       Copyright (c) 2024-2025 Scott Humphreys
 
        This file is part of SRH_circuit_shapes
 
@@ -21,7 +21,7 @@
   </connections>
   <aspectratio type="fixed"/>
   <svg:svg>
-    <svg:rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.001; stroke: #ffffff" x="-0.25" y="-0.5" width="0.5" height="1" rx="0" ry="0"/>
+    <svg:rect style="fill: none; stroke: none" x="-0.25" y="-0.5" width="0.5" height="1" rx="0" ry="0"/>
     <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 1 stroke-linecap: round; stroke: #000000" d="M -0.013742 -0.188232 C -0.0669967,-0.188232 -0.116206,-0.170293 -0.142833,-0.141173 C -0.169461,-0.112053 -0.169461,-0.0761753 -0.142833,-0.0470552 C -0.116206,-0.0179351 -0.0669967,3.6e-06 -0.013742,3.6e-06"/>
     <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" d="M -0.013742 -0.376467 C -0.0669967,-0.376467 -0.116206,-0.358528 -0.142833,-0.329408 C -0.169461,-0.300288 -0.169461,-0.26441 -0.142833,-0.23529 C -0.116206,-0.20617 -0.0669967,-0.188232 -0.013742,-0.188232"/>
     <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke: #000000" d="M -0.013742 0.188239 C -0.0669967,0.188239 -0.116206,0.206178 -0.142833,0.235298 C -0.169461,0.264418 -0.169461,0.300295 -0.142833,0.329415 C -0.116206,0.358535 -0.0669967,0.376474 -0.013742,0.376474"/>
